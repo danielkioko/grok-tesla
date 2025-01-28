@@ -1,0 +1,16 @@
+tesla-grok-api/
+├── config/
+│   └── config.js
+├── services/
+│   ├── teslaService.js
+│   └── grokService.js
+├── routes/
+│   ├── authRoutes.js
+│   └── vehicleRoutes.js
+├── middleware/
+│   └── authMiddleware.js
+├── utils/
+│   └── teslaCommands.js
+├── .env
+├── package.json
+└── server.js 
